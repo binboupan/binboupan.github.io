@@ -9,6 +9,10 @@
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.4.4/proj4.js"></script>
 
@@ -95,15 +99,20 @@ var map = L.map('map').setView([60.7073,24.7549], 12);
 		id: 'mapbox.light'
 	}).addTo(map);
 
+  
+  var markers = L.markerClusterGroup();
 
-var geojson = L.geoJSON(myGeoJson).addTo(map).on('click', onClick);
+var geojson = L.geoJSON(myGeoJson).on('click', onClick);
 	
 
-var geojson = L.geoJSON(weatherCams, {
+var weathercamjson = L.geoJSON(weatherCams, {
   pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {icon: greenIcon});
-    }}).addTo(map).on('click', weatherCamClick);
+    }}).on('click', weatherCamClick);
 	
+    markers.addLayer(geojson);
+    markers.addLayer(weathercamjson);
+map.addLayer(markers);
 
 
 	
