@@ -1,0 +1,7201 @@
+{
+  "type" : "FeatureCollection",
+  "dataUpdatedTime" : "2022-12-18T22:59:53Z",
+  "features" : [ {
+    "type" : "Feature",
+    "id" : 1001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.596412, 60.228047, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1001,
+      "name" : "vt1_Espoo_Nupuri",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.898476, 60.166907, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1002,
+      "name" : "kt51_Hki_Lapinlahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-20T03:03:04Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.240620, 60.311628, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1003,
+      "name" : "st110_Vihti_Myllylampi",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_INTERRUPTED",
+      "dataUpdatedTime" : "2022-11-01T13:31:34Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.065093, 60.251833, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1004,
+      "name" : "vt4_Helsinki_Jakomäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.124371, 60.426274, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1005,
+      "name" : "vt4_Kerava_Kytömaa_JK",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-30T13:14:26Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.913960, 60.490497, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1006,
+      "name" : "vt7_Loviisa_Koskenkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.187120, 60.555731, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1009,
+      "name" : "vt4_Mäntsälä_Ohkola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-07T03:04:22Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.448236, 60.735882, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1010,
+      "name" : "vt4_Mäntsälä_Levanto",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-11-30T12:27:37Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.325135, 60.281350, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1011,
+      "name" : "vt7_Sipoonlahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.667305, 60.153507, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1012,
+      "name" : "kt51_Espoo_Kivenlahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:41Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.075802, 60.060423, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1013,
+      "name" : "kt51_Inkoo_Innanbäck",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.021749, 59.856517, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1014,
+      "name" : "vt25_Hanko",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.725767, 60.080763, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1015,
+      "name" : "vt25_Raasepori_Karjaa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-05T03:03:29Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.019218, 60.203749, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1016,
+      "name" : "vt25_Lohja_Virkkala",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-06T08:53:51Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.832601, 60.580412, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1018,
+      "name" : "vt25_Hyvinkää_Kirvunkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.593759, 60.378991, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1019,
+      "name" : "vt7_Porvoo_Ernestas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.852032, 60.496413, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1020,
+      "name" : "vt3_Nurmijärvi_Karhunkorpi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-25T10:24:53Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1021,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.538166, 60.505138, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1021,
+      "name" : "kt55_Askola_Monninkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-11T03:03:15Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1022,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.185220, 60.459557, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1022,
+      "name" : "vt7_Loviisa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-15T03:04:13Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1030,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.032700, 60.389762, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1030,
+      "name" : "st110_Lohja_Hyrsylän_mutka_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1032,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.905038, 60.385883, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1032,
+      "name" : "st110_Lohja_Oinola_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1034,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.905725, 60.228845, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1034,
+      "name" : "vt3_Helsinki_Pirkkola",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-12-12T11:53:50Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1035,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.770216, 60.270938, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1035,
+      "name" : "kt50_Vantaa_Askisto",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.997117, 60.320603, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1036,
+      "name" : "kt45_Vantaa_Ilola",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-12-05T06:40:58Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1037,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.172861, 60.615796, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1037,
+      "name" : "vt6_Lapinjärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1041,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.825599, 60.326306, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1041,
+      "name" : "vt3_Vantaa_Keimola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1042,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.946006, 60.464428, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1042,
+      "name" : "kt45_Tuusula_Terrisuo",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1043,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.319161, 60.293283, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1043,
+      "name" : "vt1_Vihti_Palojärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1045,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.852457, 60.164148, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1045,
+      "name" : "kt51_Hki_Vaskisalmi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-01T03:03:24Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1047,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.822767, 60.169385, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1047,
+      "name" : "kt51_Espoo_Karhusaari",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.079301, 60.282298, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1049,
+      "name" : "Vantaa_Hakkila_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1051,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.401012, 60.113674, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1051,
+      "name" : "kt51_Kirkkonummi_Vuohimäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:45Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1052,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.235628, 60.536835, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1052,
+      "name" : "vt2_Karkkila_Korpi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-26T05:06:13Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1053,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.402098, 59.980964, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1053,
+      "name" : "vt25_Tammisaari_Trollböle",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1054,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.092318, 60.617170, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1054,
+      "name" : "vt25_Mäntsälä_Keravanjärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1055,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.810269, 60.200060, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1055,
+      "name" : "st101_Espoo_Turvesuo_1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1059,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.862316, 60.622145, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1059,
+      "name" : "st167_Myrskylä_Hallila_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-15T03:04:14Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1065,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.499857, 60.257677, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1065,
+      "name" : "vt1_Espoo_Kolmiranta",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1066,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.158688, 60.288114, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1066,
+      "name" : "vt1_Lohja_Lehmijärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1070,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.302983, 60.699375, 2.000000 ]
+    },
+    "properties" : {
+      "id" : 1070,
+      "name" : "vt6_Lapinjärvi_Kimonkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-18T11:21:41Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1071,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.166245, 60.226774, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1071,
+      "name" : "st103_Helsinki_Satamatie_etelä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-05T03:04:35Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1072,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.161791, 60.232479, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1072,
+      "name" : "st103_Hki_Vuosaaren_tunneli_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1073,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.156938, 60.239776, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1073,
+      "name" : "st103_Helsinki_Satamatie_pohj_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:18Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1084,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.015838, 60.284859, 16.000000 ]
+    },
+    "properties" : {
+      "id" : 1084,
+      "name" : "kt50_Vantaa_Suutarila_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1085,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.015838, 60.284859, 16.000000 ]
+    },
+    "properties" : {
+      "id" : 1085,
+      "name" : "kt50_Vantaa_Suutarila_Opt1",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-09T03:04:05Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1087,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.087345, 60.498570, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1087,
+      "name" : "yt1282_Lohja_Ikkala_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1088,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.087345, 60.498570, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1088,
+      "name" : "yt1282_Lohja_Ikkala_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1092,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.818427, 60.222570, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1092,
+      "name" : "st101_Espoo_Mestarintunneli_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1094,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.818427, 60.222570, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1094,
+      "name" : "st101_Espoo_Mestarintunneli_O2",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-24T05:03:00Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1095,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.818427, 60.222570, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1095,
+      "name" : "st101_Espoo_Mestarintunneli_O3",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1096,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.825079, 60.226550, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1096,
+      "name" : "st101_Espoo_Vallikallio_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1097,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.825079, 60.226550, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1097,
+      "name" : "st101_Espoo_Vallikallio_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1098,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.825079, 60.226550, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1098,
+      "name" : "st101_Espoo_Vallikallio_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1099,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.825079, 60.226550, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1099,
+      "name" : "st101_Espoo_Vallikallio_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1108,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.453553, 60.491598, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 1108,
+      "name" : "vt7_Loviisa_Markkinamäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1112,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.166245, 60.226774, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1112,
+      "name" : "st103_Helsinki_Satamatie_etelä_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-25T03:03:39Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1113,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.161791, 60.232479, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1113,
+      "name" : "st103_Hki_Vuosaaren_tunneli_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1114,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.156938, 60.239776, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1114,
+      "name" : "st103_Helsinki_Satamatie_pohj_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1115,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.166158, 60.261944, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1115,
+      "name" : "vt7_Helsinki_Itäsalmi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1116,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.409835, 60.314793, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1116,
+      "name" : "vt7_Sipoo_Box",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1155,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.596412, 60.228047, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1155,
+      "name" : "vt1_Espoo_Nupuri_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1158,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.499857, 60.257677, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1158,
+      "name" : "vt1_Espoo_Kolmiranta_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1161,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.319161, 60.293283, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1161,
+      "name" : "vt1_Vihti_Palojärvi_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1163,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.158688, 60.288114, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1163,
+      "name" : "vt1_Lohja_Lehmijärvi_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1165,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.892508, 60.638628, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1165,
+      "name" : "vt2_Lohja_Salkola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1166,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.527783, 60.458818, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1166,
+      "name" : "vt25_Vihti_Haimoo",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1167,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.286795, 60.333063, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1167,
+      "name" : "vt25_Vihti_Nummela",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1169,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.537858, 60.354812, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1169,
+      "name" : "st120_Vihti_Ollila",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1171,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.848197, 60.205298, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 1171,
+      "name" : "vt1_Helsinki_Tarvo",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1174,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.848197, 60.205298, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 1174,
+      "name" : "vt1_Helsinki_Tarvo_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1177,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.734924, 60.201777, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 1177,
+      "name" : "vt1_Espoo_Sepänkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1180,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.734924, 60.201777, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 1180,
+      "name" : "vt1_Espoo_Sepänkylä_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1183,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.824601, 60.416649, 56.000000 ]
+    },
+    "properties" : {
+      "id" : 1183,
+      "name" : "vt3_Klaukkala_Nummimäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-12T03:05:35Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 1189,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.240620, 60.311637, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 1189,
+      "name" : "vt25_Vihti_Myllylampi_Silta_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.594519, 60.962680, 29.000000 ]
+    },
+    "properties" : {
+      "id" : 2002,
+      "name" : "vt8_Pyhäranta_Ihode",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-12-14T05:46:52Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.694177, 61.280479, 40.000000 ]
+    },
+    "properties" : {
+      "id" : 2003,
+      "name" : "vt8_Eurajoki_Pinkjärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.232385, 60.383077, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 2004,
+      "name" : "st110_Salo_Tupuri",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.447849, 61.208550, 48.000000 ]
+    },
+    "properties" : {
+      "id" : 2006,
+      "name" : "vt2_Kokemäki_Seppälänahde",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.992360, 61.787861, 125.000000 ]
+    },
+    "properties" : {
+      "id" : 2007,
+      "name" : "vt3_Ikaalinen_Teikangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.929591, 60.737125, 35.000000 ]
+    },
+    "properties" : {
+      "id" : 2008,
+      "name" : "vt8_Mynämäki_Motelli",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.758195, 61.651109, 29.000000 ]
+    },
+    "properties" : {
+      "id" : 2009,
+      "name" : "vt8_Pori_Ahlainen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-09T03:04:04Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.016630, 62.112084, 140.000000 ]
+    },
+    "properties" : {
+      "id" : 2010,
+      "name" : "vt3_Parkano_Lamminkoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.883857, 60.784596, 91.000000 ]
+    },
+    "properties" : {
+      "id" : 2011,
+      "name" : "vt9_Loimaa_Mellilä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.129454, 60.691675, 86.000000 ]
+    },
+    "properties" : {
+      "id" : 2012,
+      "name" : "vt10_Koski_TL",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.347210, 61.466854, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 2013,
+      "name" : "vt11_Ulvila_Sääkskoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-27T03:03:47Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.290034, 61.800246, 85.000000 ]
+    },
+    "properties" : {
+      "id" : 2014,
+      "name" : "vt23_Kankaanpää_Hapua",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.382762, 60.467151, 44.000000 ]
+    },
+    "properties" : {
+      "id" : 2015,
+      "name" : "kt40_Lieto_Auranlaakso",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.656507, 61.109734, 60.000000 ]
+    },
+    "properties" : {
+      "id" : 2016,
+      "name" : "kt41_Huittinen_Jokisivu",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.117187, 61.367909, 87.000000 ]
+    },
+    "properties" : {
+      "id" : 2017,
+      "name" : "vt12_Sastamala_Kärppälä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.148542, 60.173689, 23.000000 ]
+    },
+    "properties" : {
+      "id" : 2018,
+      "name" : "kt52_Salo_Perniö",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-12-08T06:57:53Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.325291, 60.314314, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2019,
+      "name" : "st180_Parainen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.632530, 61.532138, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 2020,
+      "name" : "vt2_Pori_Kähkönen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2022,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.742946, 60.627720, 18.000000 ]
+    },
+    "properties" : {
+      "id" : 2022,
+      "name" : "st192_Vehmaa_Vehmassalmi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2023,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.485968, 60.044041, 13.000000 ]
+    },
+    "properties" : {
+      "id" : 2023,
+      "name" : "st183_Kemiönsaari_Taalintehdas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-04T11:39:13Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2025,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.615500, 60.831722, 20.000000 ]
+    },
+    "properties" : {
+      "id" : 2025,
+      "name" : "kt43_Uusikaupunki_Kalanti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2026,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.624488, 61.943607, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2026,
+      "name" : "vt8_Merikarvia_Kuvaskangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2027,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.510463, 60.615549, 54.000000 ]
+    },
+    "properties" : {
+      "id" : 2027,
+      "name" : "vt9_Aura_Järvenoja",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.622723, 60.542807, 40.000000 ]
+    },
+    "properties" : {
+      "id" : 2028,
+      "name" : "vt10_Lieto_Yliskulma",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2029,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.177219, 61.137375, 52.000000 ]
+    },
+    "properties" : {
+      "id" : 2029,
+      "name" : "vt12_Eura",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-14T11:52:48Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2030,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.286833, 60.497499, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2030,
+      "name" : "kt40_Turku_Kärsämäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2031,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.284284, 60.497849, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2031,
+      "name" : "vt9_Turku_Kärsämäki",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-12-05T06:40:06Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2032,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.948212, 60.377119, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2032,
+      "name" : "st110_Salo_Korvenpää",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2033,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.766667, 60.416416, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2033,
+      "name" : "st110_Paimio_Kevola_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2034,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.786280, 60.169432, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2034,
+      "name" : "st180_Parainen_Nauvo_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2035,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.304649, 60.446646, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2035,
+      "name" : "vt1_Turku_Kupittaa_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.304649, 60.446646, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2036,
+      "name" : "vt1_Turku_Kupittaa_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2037,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.402281, 60.424010, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2037,
+      "name" : "vt1_Kaarina_Hiiskanmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2039,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.534723, 60.445870, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2039,
+      "name" : "vt1_Kaarina_Piikkiö_S",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2041,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.683010, 60.423384, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2041,
+      "name" : "vt1_Paimio_Valkoja",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:18Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2043,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.840145, 60.428319, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2043,
+      "name" : "vt1_Paimio_Pitkäporras",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2045,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.969139, 60.435149, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2045,
+      "name" : "vt1_Salo_Hajala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:16Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2047,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.106354, 60.417300, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2047,
+      "name" : "vt1_Salo_Halikko",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.211233, 60.407402, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2049,
+      "name" : "vt1_Salo_Haukkala",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2052,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.618722, 60.211657, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2052,
+      "name" : "Åland_Eckerö_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2054,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.081853, 60.463620, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2054,
+      "name" : "Åland_Åva_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2059,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.291923, 60.388679, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2059,
+      "name" : "vt1_Salo_Muurla",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2061,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.748878, 60.381313, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2061,
+      "name" : "st110_Salo_Kettulanmäki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2062,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.663891, 60.372046, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2062,
+      "name" : "st110_Salo_Kolmperä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2063,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.575594, 60.380729, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2063,
+      "name" : "st110_Salo_Aneriojärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2065,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.413415, 60.369560, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2065,
+      "name" : "st110_Salo_Valkjärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2087,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.426053, 60.497686, 220.000000 ]
+    },
+    "properties" : {
+      "id" : 2087,
+      "name" : "vt10_Lieto_Vierunkoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2088,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.358600, 60.367585, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2088,
+      "name" : "st180_Kaarina_Kirjalansalmi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2090,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.569286, 61.150155, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2090,
+      "name" : "vt8_Rauma_Luostarinkylä_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2097,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.123911, 60.549148, 45.000000 ]
+    },
+    "properties" : {
+      "id" : 2097,
+      "name" : "vt8_Masku_Humikkala",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-12-05T06:39:43Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2122,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.550660, 60.445262, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2122,
+      "name" : "vt1_Kaarina_Makarla_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2124,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.983758, 60.459147, 20.000000 ]
+    },
+    "properties" : {
+      "id" : 2124,
+      "name" : "st189_Naantali_Luonnonmaa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2126,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.849562, 61.106727, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2126,
+      "name" : "vt2_Huittinen_Korvenmaa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 2131,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.740708, 60.163807, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 2131,
+      "name" : "st183_Kemiönsaari_Engelsby_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.995752, 60.550431, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3001,
+      "name" : "vt7_Kotka_Karhunkangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-06T03:02:53Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.088203, 60.569293, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3002,
+      "name" : "vt7_Hamina_Summa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.262171, 61.482832, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3003,
+      "name" : "kt62_Puumala_Huuhkaala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-28T08:53:35Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.249406, 61.677657, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3004,
+      "name" : "vt5_Mikkeli",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.197074, 61.843469, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3005,
+      "name" : "vt14_Savonlinna_Kulennoinen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-28T08:54:37Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.883019, 60.501096, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 3006,
+      "name" : "vt7_Kotka_Sutela",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.800056, 60.496159, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3007,
+      "name" : "st170_Pyhtää_Mokra_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.059063, 61.074285, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3011,
+      "name" : "vt15_Kouvola_Tuohikotti_ET",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-30T13:14:25Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.363533, 61.038441, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3012,
+      "name" : "vt13_Lappeenranta_Karhusjärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.921375, 60.463926, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3014,
+      "name" : "vt15_Kotka_Kotkansaari",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3022,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.386503, 61.399125, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3022,
+      "name" : "vt5_Pertunmaa_Kuortti",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-20T06:36:19Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3026,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.800056, 60.496159, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3026,
+      "name" : "st170_Pyhtää_Mokra_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3031,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.088567, 61.136705, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3031,
+      "name" : "st408_Taipalsaari_Saimaanharju_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_INTERRUPTED",
+      "dataUpdatedTime" : "2022-11-01T13:31:20Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3032,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.622619, 61.588222, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3032,
+      "name" : "kt62_Mikkeli_Anttola_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3034,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.396584, 60.563741, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3034,
+      "name" : "st170_Virolahti_Kattilainen_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3035,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.396584, 60.563741, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3035,
+      "name" : "st170_Virolahti_Kattilainen_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.124300, 61.036434, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3036,
+      "name" : "vt6_Lappeenranta_Kärki",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_INTERRUPTED",
+      "dataUpdatedTime" : "2022-10-28T04:56:48Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3043,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.216293, 60.630506, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3043,
+      "name" : "vt26_Hamina_Myllykylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.819470, 60.886259, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3049,
+      "name" : "vt6_Kouvola_Utti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3051,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.701896, 60.499890, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 3051,
+      "name" : "vt7_Pyhtää_Siltakylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3056,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.255293, 60.595403, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 3056,
+      "name" : "vt7_Hamina_Kolsila_itä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3064,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.166383, 60.592428, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 3064,
+      "name" : "vt7_Hamina_Husula",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3072,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.651145, 60.880972, 40.000000 ]
+    },
+    "properties" : {
+      "id" : 3072,
+      "name" : "Saimaan_Kanavatie",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3074,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.475349, 60.596463, 24.000000 ]
+    },
+    "properties" : {
+      "id" : 3074,
+      "name" : "vt7_Virolahti_Ravijoki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3075,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.756659, 60.605852, 30.000000 ]
+    },
+    "properties" : {
+      "id" : 3075,
+      "name" : "vt7_Virolahti_Mattila",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 3089,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.340937, 61.419383, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 3089,
+      "name" : "vt6_Rautjärvi_Simpele",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.613012, 60.907742, 70.000000 ]
+    },
+    "properties" : {
+      "id" : 4001,
+      "name" : "vt4_Hollola_Miekkiö",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.349865, 61.226205, 125.000000 ]
+    },
+    "properties" : {
+      "id" : 4002,
+      "name" : "vt24_Asikkala_Iso-Äiniö",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.334059, 60.956006, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 4003,
+      "name" : "vt2_Humppila_Koenjoki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.490775, 60.954417, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 4004,
+      "name" : "vt3_Hämeenlinna_Miemala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.422976, 61.501564, 155.000000 ]
+    },
+    "properties" : {
+      "id" : 4005,
+      "name" : "vt11_Nokia_Sorrinlammi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.765038, 61.408411, 130.000000 ]
+    },
+    "properties" : {
+      "id" : 4006,
+      "name" : "vt3_Lempäälä_Kulju",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-12-18T22:59:53Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.058328, 61.148562, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 4007,
+      "name" : "st130_Valkeakoski_Jutikkala_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.013066, 60.827995, 140.000000 ]
+    },
+    "properties" : {
+      "id" : 4008,
+      "name" : "vt10_Tammela_Heinivaho",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.737346, 60.706054, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 4009,
+      "name" : "vt3_Riihimäki_Parmala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.281987, 61.004725, 130.000000 ]
+    },
+    "properties" : {
+      "id" : 4010,
+      "name" : "vt12_Hollola_Hämeenkoski",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-15T08:06:51Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.681809, 61.159489, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 4011,
+      "name" : "vt12_Hämeenlinna_Hauho",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.293627, 61.308423, 105.000000 ]
+    },
+    "properties" : {
+      "id" : 4012,
+      "name" : "vt12_Pälkäne_Kollolanharju",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.219303, 61.645095, 150.000000 ]
+    },
+    "properties" : {
+      "id" : 4013,
+      "name" : "vt9_Orivesi_Kutema",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.024142, 62.017254, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 4015,
+      "name" : "kt66_Ruovesi_Ruojärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.807369, 62.248890, 130.000000 ]
+    },
+    "properties" : {
+      "id" : 4016,
+      "name" : "vt23_Virrat_Puttoskylä",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-11-11T08:03:30Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.917511, 61.497141, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 4017,
+      "name" : "vt12_Tampere_Atala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.699541, 61.507698, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 4020,
+      "name" : "vt12_Tre_Paasikiventie",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-08T03:03:41Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4021,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.647442, 61.115356, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 4021,
+      "name" : "vt9_Akaa_Kylmäkoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-26T03:04:24Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4022,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.056720, 60.819556, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 4022,
+      "name" : "kt54_Hausjärvi_Mommila",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4023,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.610931, 61.977972, 105.000000 ]
+    },
+    "properties" : {
+      "id" : 4023,
+      "name" : "kt58_Mänttä_Kuoreniemi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:40Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4024,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.475460, 61.577097, 155.000000 ]
+    },
+    "properties" : {
+      "id" : 4024,
+      "name" : "vt3_Ylöjärvi_Metsäkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4025,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.609004, 60.979392, 140.000000 ]
+    },
+    "properties" : {
+      "id" : 4025,
+      "name" : "Lahti_Kärpäsenmäki_R",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4027,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.836093, 61.255318, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4027,
+      "name" : "vt3_Lempäälä_Lippo",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.057326, 61.140958, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4028,
+      "name" : "vt3_Valkeakoski_Jutikkala",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4029,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.636020, 61.452635, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4029,
+      "name" : "vt3_Pirkkala_Huovi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4030,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.071716, 61.549790, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4030,
+      "name" : "vt9_Kangasala_Suinula",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4031,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.475165, 61.708726, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4031,
+      "name" : "vt9_Orivesi_Leppähammas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4032,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.708928, 61.731515, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4032,
+      "name" : "vt9_Orivesi_Talviainen",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-12-05T06:40:31Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4041,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.609004, 60.979392, 140.000000 ]
+    },
+    "properties" : {
+      "id" : 4041,
+      "name" : "Lahti_Kärpäsenmäki_Opt",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4062,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.024142, 62.017254, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 4062,
+      "name" : "kt66_Ruovesi_Ruojärvi_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4064,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.774446, 61.477226, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4064,
+      "name" : "yt3495_Tampere_Rautaharkko",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4069,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.698591, 61.059496, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4069,
+      "name" : "vt10_Hämeenlinna_Eteläinen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4072,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.649538, 60.956574, 97.000000 ]
+    },
+    "properties" : {
+      "id" : 4072,
+      "name" : "vt12_Lahti_Laune",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4076,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.060703, 61.461774, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4076,
+      "name" : "vt12_Kangasala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4080,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.534522, 60.960679, 110.000000 ]
+    },
+    "properties" : {
+      "id" : 4080,
+      "name" : "vt12_Hollola_Okeroinen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4082,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.609004, 60.979392, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4082,
+      "name" : "Lahti Kärpäsenmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-09T08:24:07Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 4083,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.952334, 60.936121, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 4083,
+      "name" : "Lahti Elementintie",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-12-14T05:16:12Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.484738, 60.776254, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5001,
+      "name" : "vt6_Kouvola_Elimäki",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-15T08:05:28Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.856199, 61.229996, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5004,
+      "name" : "vt6_Imatra_Rönkkä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.580662, 61.645189, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5005,
+      "name" : "vt6_Parikkala_Rautalahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.377918, 61.349430, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5006,
+      "name" : "vt13_Mikkeli_Kauriansalmi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-24T06:09:26Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.664768, 60.934604, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5007,
+      "name" : "vt6_Luumäki_kko",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-01T03:03:42Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.310615, 61.071963, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5008,
+      "name" : "vt6_Lappeenranta_Mälkiä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.179069, 60.913218, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5009,
+      "name" : "vt12_Iitti_Mankala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.726795, 60.587054, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5011,
+      "name" : "st170_Virolahti_Virojoki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.921476, 60.624956, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5012,
+      "name" : "vt15_Kotka_Juurikorpi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.350013, 60.777388, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5013,
+      "name" : "vt26_Hamina_Pyhältö",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-28T08:53:34Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.979930, 60.765037, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5014,
+      "name" : "st387_Lappeenranta_Ylämaa",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_INTERRUPTED",
+      "dataUpdatedTime" : "2022-10-20T13:49:39Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.745739, 61.168881, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5015,
+      "name" : "vt13_Savitaipale_Ellosenpää",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-25T03:03:40Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.819304, 60.886259, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5016,
+      "name" : "vt6_Kouvola_Utti_YPS",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.819304, 60.886259, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 5019,
+      "name" : "vt6_Kouvola_Utti_YPS_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 5027,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.842359, 60.594107, 25.000000 ]
+    },
+    "properties" : {
+      "id" : 5027,
+      "name" : "vt7_Vaalimaa_rekkaparkki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.905355, 61.098739, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6001,
+      "name" : "vt4_Heinola_Vierumäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:16Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.751013, 61.479900, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6002,
+      "name" : "vt5_Mäntyharju_Toivola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.598307, 61.795714, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6003,
+      "name" : "vt5_Juva_Nuutilanmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.040098, 61.412619, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6004,
+      "name" : "vt4_Sysmä_Onkiniemi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.806766, 62.057329, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6005,
+      "name" : "vt5_Joroinen_Puunkolo",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-21T03:03:28Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.527503, 61.939801, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6006,
+      "name" : "vt14_Rantasalmi_Parkumäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-28T08:54:35Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.172530, 61.287434, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6007,
+      "name" : "vt15_Mäntyharju_Tommola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-12T19:44:18Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.922122, 62.533823, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6008,
+      "name" : "vt23_Heinävesi_Suurmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-05T15:57:41Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.402798, 62.290780, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6009,
+      "name" : "vt23_Pieksämäki_Siikamäki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.929848, 61.903356, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6010,
+      "name" : "vt13_Mikkeli_Läsänkoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-28T08:54:34Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.318466, 61.799361, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 6011,
+      "name" : "st435_Sulkava_Pieksuu_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.464150, 62.524064, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 6016,
+      "name" : "vt23_Heinävesi_Lamminpää",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:20Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6021,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.318696, 62.159236, 162.000000 ]
+    },
+    "properties" : {
+      "id" : 6021,
+      "name" : "vt13_Kangasniemi_Häppälä_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6023,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.854191, 61.879312, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6023,
+      "name" : "vt14_Savonlinna_Hevonpäänniemi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-28T08:54:36Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 6028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.838159, 61.878423, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 6028,
+      "name" : "vt14_Savonlinna_Laitaatsalmi_silta_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.786480, 62.661611, 93.000000 ]
+    },
+    "properties" : {
+      "id" : 7001,
+      "name" : "vt6_Kontiolahti_Lehmo",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.731179, 61.797315, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 7002,
+      "name" : "vt6_Kitee_Kesälahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-01T03:03:27Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.104238, 62.684135, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 7003,
+      "name" : "vt9_Liperi_Ahonkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-05T15:56:41Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.134792, 63.225774, 165.000000 ]
+    },
+    "properties" : {
+      "id" : 7004,
+      "name" : "kt73_Lieksa_Mökkivaara_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.107904, 62.239962, 111.000000 ]
+    },
+    "properties" : {
+      "id" : 7005,
+      "name" : "vt6_Tohmajärvi_Vinska",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.302064, 63.216633, 108.000000 ]
+    },
+    "properties" : {
+      "id" : 7006,
+      "name" : "vt6_Juuka_Räksiinalava",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-20T03:03:03Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.910815, 63.628601, 112.000000 ]
+    },
+    "properties" : {
+      "id" : 7007,
+      "name" : "vt6_Valtimo_Myllykylä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.691845, 62.585064, 190.000000 ]
+    },
+    "properties" : {
+      "id" : 7008,
+      "name" : "kt74_Ilomantsi_Marjovaara_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.603705, 62.632480, 102.000000 ]
+    },
+    "properties" : {
+      "id" : 7009,
+      "name" : "vt9_Liperi_Ylämylly",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.525612, 62.178713, 89.000000 ]
+    },
+    "properties" : {
+      "id" : 7011,
+      "name" : "vt9_Tohmajärvi_Värtsilä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.340875, 62.632521, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 7012,
+      "name" : "vt9_Liperi_Käsämä",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.090165, 62.400806, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 7014,
+      "name" : "vt6_Joensuu_Tikkala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.100103, 62.797111, 97.000000 ]
+    },
+    "properties" : {
+      "id" : 7015,
+      "name" : "kt73_Eno_Louhioja_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.277053, 62.929197, 206.000000 ]
+    },
+    "properties" : {
+      "id" : 7016,
+      "name" : "st522_Ilomantsi_Hattuvaara_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.607324, 62.053425, 96.000000 ]
+    },
+    "properties" : {
+      "id" : 7017,
+      "name" : "kt71_Kitee_Väärämäki_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.780862, 62.614218, 81.000000 ]
+    },
+    "properties" : {
+      "id" : 7018,
+      "name" : "vt6_Joensuu",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.457395, 63.824080, 249.000000 ]
+    },
+    "properties" : {
+      "id" : 7019,
+      "name" : "kt75_Nurmes_Mujejärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7024,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.995605, 63.523624, 129.000000 ]
+    },
+    "properties" : {
+      "id" : 7024,
+      "name" : "st524_Lieksa_Nurmijärvi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7025,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.532340, 63.283638, 172.000000 ]
+    },
+    "properties" : {
+      "id" : 7025,
+      "name" : "st522_Lieksa_Hatunkylä_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7026,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.850259, 62.345539, 129.000000 ]
+    },
+    "properties" : {
+      "id" : 7026,
+      "name" : "st500_Joensuu_Hoilola_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.100103, 62.797111, 97.000000 ]
+    },
+    "properties" : {
+      "id" : 7028,
+      "name" : "kt73_Eno_Louhioja_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7032,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.623520, 63.475826, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 7032,
+      "name" : "kt73_Lieksa_Vieki_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7034,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.359867, 63.090225, 226.000000 ]
+    },
+    "properties" : {
+      "id" : 7034,
+      "name" : "yt5200_Lieksa_Jaakonvaara_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.804021, 62.957283, 143.000000 ]
+    },
+    "properties" : {
+      "id" : 7036,
+      "name" : "vt6_Kontiolahti_Romppala_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_INTERRUPTED",
+      "dataUpdatedTime" : "2022-10-21T07:02:16Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7037,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.873687, 61.974388, 89.000000 ]
+    },
+    "properties" : {
+      "id" : 7037,
+      "name" : "vt6_Kitee_Kousa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 7039,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.862258, 62.530883, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 7039,
+      "name" : "vt6_Joensuu_Reijola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.607599, 62.841376, 110.000000 ]
+    },
+    "properties" : {
+      "id" : 8001,
+      "name" : "vt5_Kuopio_Kuvelampi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-01T03:03:24Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.809276, 62.383576, 97.000000 ]
+    },
+    "properties" : {
+      "id" : 8002,
+      "name" : "vt5_Leppävirta_Poijinpelto",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-21T03:03:30Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.450941, 63.303119, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 8003,
+      "name" : "vt5_Lapinlahti_Mäntylahti",
+      "collectionStatus" : "GATHERING",
+      "state" : "FAULT_CONFIRMED_NOT_FIXED_IN_NEAR_FUTURE",
+      "dataUpdatedTime" : "2022-12-09T05:16:38Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.285323, 63.666126, 187.000000 ]
+    },
+    "properties" : {
+      "id" : 8004,
+      "name" : "vt5_Iisalmi_Ryhälänmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.671272, 63.060328, 110.000000 ]
+    },
+    "properties" : {
+      "id" : 8005,
+      "name" : "vt5_Siilinjärvi_Oikeakätinen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.336779, 62.870698, 105.000000 ]
+    },
+    "properties" : {
+      "id" : 8006,
+      "name" : "vt9_Tuusniemi_Tuusjärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.949473, 63.232122, 158.000000 ]
+    },
+    "properties" : {
+      "id" : 8007,
+      "name" : "kt77_Pielavesi_Löytynjärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.056424, 63.157658, 160.000000 ]
+    },
+    "properties" : {
+      "id" : 8008,
+      "name" : "kt75_Nilsiä_Suholanmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.048434, 62.586010, 106.000000 ]
+    },
+    "properties" : {
+      "id" : 8009,
+      "name" : "vt9_Suonenjoki_Levä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.843200, 63.614118, 132.000000 ]
+    },
+    "properties" : {
+      "id" : 8010,
+      "name" : "vt27_Iisalmi_Runni_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.042812, 62.931570, 116.000000 ]
+    },
+    "properties" : {
+      "id" : 8011,
+      "name" : "vt9_Kuopio_Vartiala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.858781, 62.959315, 88.000000 ]
+    },
+    "properties" : {
+      "id" : 8012,
+      "name" : "vt9_Kuopio_Jännevirta",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.523779, 62.715944, 132.000000 ]
+    },
+    "properties" : {
+      "id" : 8014,
+      "name" : "vt9_Kuopio_Vehmasmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.730313, 63.910761, 189.000000 ]
+    },
+    "properties" : {
+      "id" : 8017,
+      "name" : "kt88_Vieremä_Isomäki_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.800543, 63.606670, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 8018,
+      "name" : "kt87_Sonkajärvi_Koirakoski_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.389087, 62.927206, 112.000000 ]
+    },
+    "properties" : {
+      "id" : 8019,
+      "name" : "st551_Vesanto_Löttökorpi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.636252, 62.885114, 115.000000 ]
+    },
+    "properties" : {
+      "id" : 8020,
+      "name" : "vt5_Kuopio_Siikalahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8023,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.604964, 62.589621, 92.000000 ]
+    },
+    "properties" : {
+      "id" : 8023,
+      "name" : "vt5_Leppävirta_Oravikoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-21T03:03:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8031,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.336779, 62.870698, 105.000000 ]
+    },
+    "properties" : {
+      "id" : 8031,
+      "name" : "vt9_Tuusniemi_Tuusjärvi_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8038,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.677779, 62.918867, 101.000000 ]
+    },
+    "properties" : {
+      "id" : 8038,
+      "name" : "vt5_Kuopio_Rahusenlampi_OptX1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8042,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.696966, 62.964039, 85.000000 ]
+    },
+    "properties" : {
+      "id" : 8042,
+      "name" : "vt5_Kuopio_Sorsasalo_OptX1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8064,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.165408, 62.407354, 103.000000 ]
+    },
+    "properties" : {
+      "id" : 8064,
+      "name" : "vt23_Leppävirta_Soisalo",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_INTERRUPTED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8066,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.671233, 62.946849, 98.000000 ]
+    },
+    "properties" : {
+      "id" : 8066,
+      "name" : "vt5_Kuopio_Tikkalansaari",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8069,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.671918, 62.947519, 99.000000 ]
+    },
+    "properties" : {
+      "id" : 8069,
+      "name" : "vt5_Kuopio_Tikkalansaari_Silta_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8071,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.677779, 62.918867, 101.000000 ]
+    },
+    "properties" : {
+      "id" : 8071,
+      "name" : "vt5_Kuopio_Rahusenlampi_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8073,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.696966, 62.964039, 85.000000 ]
+    },
+    "properties" : {
+      "id" : 8073,
+      "name" : "vt5_Kuopio_Sorsasalo_OptX2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8079,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.830014, 62.971111, 113.000000 ]
+    },
+    "properties" : {
+      "id" : 8079,
+      "name" : "vt9_Kuopio_Jännevirta_Silta_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 8084,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.577415, 62.719010, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 8084,
+      "name" : "vt5_Kuopio_Vehmasmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-16T03:03:37Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.051860, 62.051440, 185.000000 ]
+    },
+    "properties" : {
+      "id" : 9001,
+      "name" : "vt4_Toivakka_Vestonmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.500411, 61.999365, 125.000000 ]
+    },
+    "properties" : {
+      "id" : 9002,
+      "name" : "vt9_Jyväskylä_Korpilahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.393709, 62.271619, 160.000000 ]
+    },
+    "properties" : {
+      "id" : 9003,
+      "name" : "vt18_Petäjävesi_Vehkasuo_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.810019, 62.877732, 105.000000 ]
+    },
+    "properties" : {
+      "id" : 9004,
+      "name" : "vt4_Äänekoski_Kalaniemi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:43Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.295385, 61.631933, 125.000000 ]
+    },
+    "properties" : {
+      "id" : 9005,
+      "name" : "vt24_Kuhmoinen_Iso-Sääksjärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.684373, 62.440320, 135.000000 ]
+    },
+    "properties" : {
+      "id" : 9006,
+      "name" : "vt4_Laukaa_Vehniä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.140128, 62.246171, 125.000000 ]
+    },
+    "properties" : {
+      "id" : 9007,
+      "name" : "vt9_Laukaa_Lievestuore",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.663308, 63.224397, 130.000000 ]
+    },
+    "properties" : {
+      "id" : 9008,
+      "name" : "vt4_Viitasaari_Löytänä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.098561, 62.778315, 150.000000 ]
+    },
+    "properties" : {
+      "id" : 9009,
+      "name" : "vt13_Saarijärvi_Kalmari",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.697270, 63.000425, 160.000000 ]
+    },
+    "properties" : {
+      "id" : 9010,
+      "name" : "vt13_Kyyjärvi_Oikari",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.590491, 62.377498, 113.000000 ]
+    },
+    "properties" : {
+      "id" : 9011,
+      "name" : "vt9_Hankasalmi_Hallanlahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:42Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.561971, 62.245503, 153.000000 ]
+    },
+    "properties" : {
+      "id" : 9012,
+      "name" : "vt23_Keuruu_Tiusala_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.083664, 61.722526, 95.000000 ]
+    },
+    "properties" : {
+      "id" : 9013,
+      "name" : "vt4_Joutsa",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.769116, 62.246070, 79.000000 ]
+    },
+    "properties" : {
+      "id" : 9014,
+      "name" : "vt9_Jyväskylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.652015, 62.573252, 115.000000 ]
+    },
+    "properties" : {
+      "id" : 9015,
+      "name" : "vt13_Äänekoski_Honkola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.328408, 61.913724, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 9016,
+      "name" : "vt9_Jämsä_Ratalammi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.069243, 61.825827, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 9017,
+      "name" : "vt9_Jämsä_Partalanmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.767173, 62.693869, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 9018,
+      "name" : "vt4_Äänekoski_Petomäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.703895, 62.340207, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 9019,
+      "name" : "vt4_Jyväskylä_Puuppola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.477676, 62.304780, 104.000000 ]
+    },
+    "properties" : {
+      "id" : 9020,
+      "name" : "vt9_Hankasalmen_asema",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9021,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.681402, 62.179710, 160.000000 ]
+    },
+    "properties" : {
+      "id" : 9021,
+      "name" : "vt9_Muurame_Keljonkangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.463524, 62.703384, 150.000000 ]
+    },
+    "properties" : {
+      "id" : 9028,
+      "name" : "kt69_Konnevesi_Istunmäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9029,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.593683, 62.588647, 210.000000 ]
+    },
+    "properties" : {
+      "id" : 9029,
+      "name" : "vt18_Multia_Väätäiskylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.641305, 63.422953, 119.000000 ]
+    },
+    "properties" : {
+      "id" : 9036,
+      "name" : "vt4_Pihtipudas_Rönnynkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9037,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.807422, 62.807001, 101.000000 ]
+    },
+    "properties" : {
+      "id" : 9037,
+      "name" : "vt4_Äänekoski_Lintulahti",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-21T12:08:38Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 9049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.705434, 62.371292, 135.000000 ]
+    },
+    "properties" : {
+      "id" : 9049,
+      "name" : "st624_Jyväskylä_Tikka-Mannila",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-25T09:29:55Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.530822, 62.067804, 33.000000 ]
+    },
+    "properties" : {
+      "id" : 10001,
+      "name" : "vt8_Kristiinankaup_Metsälä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.438225, 62.477492, 16.000000 ]
+    },
+    "properties" : {
+      "id" : 10002,
+      "name" : "vt8_Närpiö",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-11-03T04:54:36Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.719730, 63.130107, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 10003,
+      "name" : "vt8_Vaasa_Mustasaari",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.282333, 63.256314, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 10004,
+      "name" : "vt8_Vöyri_Kaitsor",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.816947, 63.640125, 6.000000 ]
+    },
+    "properties" : {
+      "id" : 10005,
+      "name" : "kt68_Pedersöre_Edsevö",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:46Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.274188, 63.860891, 7.000000 ]
+    },
+    "properties" : {
+      "id" : 10006,
+      "name" : "vt8_Kokkola_Vitikka",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.797132, 62.393663, 99.000000 ]
+    },
+    "properties" : {
+      "id" : 10007,
+      "name" : "vt3_Kurikka_Jalasjärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.280752, 62.787786, 70.000000 ]
+    },
+    "properties" : {
+      "id" : 10008,
+      "name" : "vt3_Ilmajoki_Majakangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.627004, 62.446837, 122.000000 ]
+    },
+    "properties" : {
+      "id" : 10009,
+      "name" : "kt66_Alavus_Sampsalampi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.039176, 62.939947, 51.000000 ]
+    },
+    "properties" : {
+      "id" : 10010,
+      "name" : "vt19_Lapua_Jouttikallio",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-14T16:10:42Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.898838, 63.001363, 9.000000 ]
+    },
+    "properties" : {
+      "id" : 10011,
+      "name" : "vt3_Laihia_Ruto",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.641076, 62.747496, 40.000000 ]
+    },
+    "properties" : {
+      "id" : 10012,
+      "name" : "vt8_Maalahti_Pirttikylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-15T03:04:15Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.679356, 63.019762, 79.000000 ]
+    },
+    "properties" : {
+      "id" : 10013,
+      "name" : "vt16_Alajärvi_Kurejoki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.778415, 62.795511, 41.000000 ]
+    },
+    "properties" : {
+      "id" : 10014,
+      "name" : "kt67_Seinäjoki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.473325, 63.596931, 56.000000 ]
+    },
+    "properties" : {
+      "id" : 10015,
+      "name" : "vt13_Kaustinen_Viiperi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-25T03:03:38Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.245449, 62.116228, 123.000000 ]
+    },
+    "properties" : {
+      "id" : 10016,
+      "name" : "kt44_Kauhajoki_Vakkurinkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.280653, 62.480640, 93.000000 ]
+    },
+    "properties" : {
+      "id" : 10017,
+      "name" : "kt67_Kauhajoki_Äijönkylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.899920, 62.611742, 151.000000 ]
+    },
+    "properties" : {
+      "id" : 10018,
+      "name" : "vt18_Alavus_Töysä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.515232, 63.334901, 79.000000 ]
+    },
+    "properties" : {
+      "id" : 10019,
+      "name" : "kt68_Evijärvi_Kirsilä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.782701, 63.805549, 4.000000 ]
+    },
+    "properties" : {
+      "id" : 10020,
+      "name" : "st749_Luoto_Eugmo_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10021,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.799024, 63.289040, 28.000000 ]
+    },
+    "properties" : {
+      "id" : 10021,
+      "name" : "vt19_Alahärmä_Voltti_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10022,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.473267, 63.206680, 28.000000 ]
+    },
+    "properties" : {
+      "id" : 10022,
+      "name" : "st724_Mustasaari_Raippaluoto",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-09T03:04:06Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10023,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.564302, 63.442770, 24.000000 ]
+    },
+    "properties" : {
+      "id" : 10023,
+      "name" : "vt8_Uusikaarlepyy_Ytterjeppo",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10024,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.638808, 64.042047, 6.000000 ]
+    },
+    "properties" : {
+      "id" : 10024,
+      "name" : "vt8_Kalajoki_Himanka",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10025,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.639820, 62.972591, 37.000000 ]
+    },
+    "properties" : {
+      "id" : 10025,
+      "name" : "vt16_Seinäjoki_Ylistaro",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10026,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.479724, 62.266466, 11.000000 ]
+    },
+    "properties" : {
+      "id" : 10026,
+      "name" : "vt8_Kristiinankaup_Lapväärtti",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-11-03T04:47:31Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10027,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.762351, 62.951401, 20.000000 ]
+    },
+    "properties" : {
+      "id" : 10027,
+      "name" : "vt8_Mustassari_Riimala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-01T03:03:26Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.914409, 63.670921, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 10028,
+      "name" : "vt8_Pedersöre_Lepplax",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-21T03:03:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10029,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.223450, 62.610743, 3.000000 ]
+    },
+    "properties" : {
+      "id" : 10029,
+      "name" : "st673_Närpiö_Rangsby",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-01T03:03:23Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10031,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.009266, 63.655661, 128.000000 ]
+    },
+    "properties" : {
+      "id" : 10031,
+      "name" : "kt63_Kokkola_Ullava_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-02T03:03:45Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10032,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.805461, 62.496330, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 10032,
+      "name" : "kt67_Teuva",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10035,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.467606, 62.592338, 115.000000 ]
+    },
+    "properties" : {
+      "id" : 10035,
+      "name" : "vt18_Alavus_Kuivaskylä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.753038, 62.587643, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 10036,
+      "name" : "vt19_Kurikka_Luopajärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10039,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.008784, 63.159152, 2.000000 ]
+    },
+    "properties" : {
+      "id" : 10039,
+      "name" : "vt8_Mustasaari_Vassor",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-11T03:03:15Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10040,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.354745, 62.977816, 23.000000 ]
+    },
+    "properties" : {
+      "id" : 10040,
+      "name" : "vt18_Isokyrö_Napue",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10041,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.527890, 62.771234, 95.000000 ]
+    },
+    "properties" : {
+      "id" : 10041,
+      "name" : "kt66_Kuortane_Mäyry_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10042,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.868361, 63.138798, 30.000000 ]
+    },
+    "properties" : {
+      "id" : 10042,
+      "name" : "vt19_Kauhava_Ylihärmä",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10043,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.785161, 63.183048, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 10043,
+      "name" : "kt68_Vimpeli_Hietoja_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10044,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.837452, 62.709428, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 10044,
+      "name" : "vt19_Ilmajoki_Rengonkylä_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10045,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.247809, 63.037321, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 10045,
+      "name" : "vt16_Alajärvi_Möksy_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10048,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.522293, 63.167388, 156.000000 ]
+    },
+    "properties" : {
+      "id" : 10048,
+      "name" : "vt13_Perho_Möttönen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.245085, 63.767396, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 10049,
+      "name" : "kt63_Toholampi_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10050,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.049413, 62.969337, 46.000000 ]
+    },
+    "properties" : {
+      "id" : 10050,
+      "name" : "vt19_Lapua_Opt1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10054,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.394566, 62.869620, 3.000000 ]
+    },
+    "properties" : {
+      "id" : 10054,
+      "name" : "st673_Maalahti_Petolahti_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10062,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.696598, 63.070926, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 10062,
+      "name" : "vt3_Vaasa_Vanhasatama",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10072,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.782237, 62.851326, 40.000000 ]
+    },
+    "properties" : {
+      "id" : 10072,
+      "name" : "vt18_Seinäjoki_Munakka",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10075,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.626641, 62.743521, 43.000000 ]
+    },
+    "properties" : {
+      "id" : 10075,
+      "name" : "kt67_Ilmajoki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10077,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.049858, 62.969259, 46.000000 ]
+    },
+    "properties" : {
+      "id" : 10077,
+      "name" : "kt66_Lapua",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 10081,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.485128, 62.685238, 50.000000 ]
+    },
+    "properties" : {
+      "id" : 10081,
+      "name" : "kt67_Ilmajoki_Koskenkorva",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-15T03:04:16Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.968490, 64.340502, 9.000000 ]
+    },
+    "properties" : {
+      "id" : 11001,
+      "name" : "vt8_Kalajoki_Vasankari",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.886345, 63.901208, 45.000000 ]
+    },
+    "properties" : {
+      "id" : 11002,
+      "name" : "vt28_Kannus_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.744181, 64.002905, 75.000000 ]
+    },
+    "properties" : {
+      "id" : 11003,
+      "name" : "vt27_Ylivieska_Raudaskylä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-10T03:03:30Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.911744, 64.309463, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 11004,
+      "name" : "kt86_Oulainen_Piipsjärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.819967, 63.642380, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 11005,
+      "name" : "vt4_Pyhäjärvi_Lamminaho",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.669230, 63.520814, 146.000000 ]
+    },
+    "properties" : {
+      "id" : 11006,
+      "name" : "kt58_Lestijärvi_Jykyri_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-25T10:27:10Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 11007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.917109, 63.428219, 98.000000 ]
+    },
+    "properties" : {
+      "id" : 11007,
+      "name" : "vt13_Veteli_Sikaharju",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.532049, 64.947352, 10.000000 ]
+    },
+    "properties" : {
+      "id" : 12001,
+      "name" : "vt4_Oulu_Ouluntulli",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-08T03:03:42Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.561583, 64.686310, 10.000000 ]
+    },
+    "properties" : {
+      "id" : 12002,
+      "name" : "vt8_Raahe_Pattijoki",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-24T06:13:00Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.875735, 64.281578, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 12003,
+      "name" : "vt4_Siikalatva_Pulkkila",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.251136, 65.533159, 13.000000 ]
+    },
+    "properties" : {
+      "id" : 12004,
+      "name" : "vt4_Ii_Myllykangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-22T03:02:53Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.192100, 65.189479, 100.000000 ]
+    },
+    "properties" : {
+      "id" : 12005,
+      "name" : "vt20_Oulu_Arkala",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.623220, 65.449339, 170.000000 ]
+    },
+    "properties" : {
+      "id" : 12006,
+      "name" : "vt20_Pudasjärvi_Pintamo_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.815878, 65.826123, 270.000000 ]
+    },
+    "properties" : {
+      "id" : 12007,
+      "name" : "vt20_Kuusamo_Kuolio_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.898913, 66.305314, 240.000000 ]
+    },
+    "properties" : {
+      "id" : 12008,
+      "name" : "vt5_Kuusamo_Kitka",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.552265, 63.989185, 190.000000 ]
+    },
+    "properties" : {
+      "id" : 12009,
+      "name" : "kt88_Pyhäntä_Ahokylä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-25T03:03:39Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.267585, 64.781115, 80.000000 ]
+    },
+    "properties" : {
+      "id" : 12010,
+      "name" : "vt22_Utajärvi_Sotkajärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.676485, 65.690372, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 12011,
+      "name" : "kt78_Pudasjärvi_Kokkokylä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-10-19T05:29:24Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.209788, 64.605684, 60.000000 ]
+    },
+    "properties" : {
+      "id" : 12013,
+      "name" : "kt86_Siikajoki_Paavola_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-21T03:03:29Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.615972, 64.657302, 55.000000 ]
+    },
+    "properties" : {
+      "id" : 12014,
+      "name" : "vt4_Tyrnävä_Temmes",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:20Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.384804, 65.412578, 8.000000 ]
+    },
+    "properties" : {
+      "id" : 12015,
+      "name" : "vt4_Ii_Olhava",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.755648, 64.006442, 115.000000 ]
+    },
+    "properties" : {
+      "id" : 12016,
+      "name" : "vt4_Kärsämäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.350062, 64.783095, 25.000000 ]
+    },
+    "properties" : {
+      "id" : 12017,
+      "name" : "vt8_Liminka_Lapinkangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.507899, 65.019907, 15.000000 ]
+    },
+    "properties" : {
+      "id" : 12019,
+      "name" : "vt4_Oulu_Intiö",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.237196, 63.813317, 85.000000 ]
+    },
+    "properties" : {
+      "id" : 12020,
+      "name" : "vt27_Haapajärvi_Oksava_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-25T10:26:04Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12022,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.487155, 64.816273, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12022,
+      "name" : "vt4_Liminka_Haaransilta",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12025,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.776125, 65.034327, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12025,
+      "name" : "st816_Hailuoto_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12026,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.507528, 65.004511, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12026,
+      "name" : "TEST_vt4_Oulu_HMP_ICR",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.144609, 66.013444, 290.000000 ]
+    },
+    "properties" : {
+      "id" : 12028,
+      "name" : "vt5_Kuusamo_Petäjälampi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12029,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.598637, 65.052348, 27.000000 ]
+    },
+    "properties" : {
+      "id" : 12029,
+      "name" : "vt20_Oulu_Hönttämäki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12033,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.840530, 64.884172, 13.000000 ]
+    },
+    "properties" : {
+      "id" : 12033,
+      "name" : "vt22_Muhos_Kosulankylä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12035,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.958674, 64.115523, 13.000000 ]
+    },
+    "properties" : {
+      "id" : 12035,
+      "name" : "vt28_Kajaani_Kokkosuo_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:17Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.300681, 65.593155, 200.000000 ]
+    },
+    "properties" : {
+      "id" : 12036,
+      "name" : "vt20_Taivalkoski_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12038,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.151560, 65.721323, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12038,
+      "name" : "vt5_Kuusamo_Jokivaara_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.546105, 64.986377, 20.000000 ]
+    },
+    "properties" : {
+      "id" : 12049,
+      "name" : "vt22_Oulu_Talonpojankangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12050,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.210749, 64.447492, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12050,
+      "name" : "vt8_Pyhäjoki_Viirre",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12053,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.518404, 64.864442, 22.000000 ]
+    },
+    "properties" : {
+      "id" : 12053,
+      "name" : "vt4_Liminka_Tupos",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12055,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.092433, 65.800111, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12055,
+      "name" : "st966_Kuusamo_raja_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12056,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.488513, 64.974622, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 12056,
+      "name" : "st847_Oulu_Kiviniemi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12057,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.584713, 66.121115, 250.000000 ]
+    },
+    "properties" : {
+      "id" : 12057,
+      "name" : "yt8690_Kuusamo_Vuotunki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-03T09:22:47Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12059,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.507899, 65.019907, 15.000000 ]
+    },
+    "properties" : {
+      "id" : 12059,
+      "name" : "vt4_Oulu_Intiö_3",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12067,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.799529, 64.421923, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12067,
+      "name" : "vt4_Siikalatva_Hyttikoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12069,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.505360, 64.985992, 10.000000 ]
+    },
+    "properties" : {
+      "id" : 12069,
+      "name" : "vt4_Oulu_Lintula",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12076,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.967942, 64.718614, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 12076,
+      "name" : "vt8_Siikajoki_Revonlahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12082,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.442388, 65.071346, 16.000000 ]
+    },
+    "properties" : {
+      "id" : 12082,
+      "name" : "vt4_Oulu_Ritaharju",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12083,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.424913, 65.174473, 20.000000 ]
+    },
+    "properties" : {
+      "id" : 12083,
+      "name" : "vt4_Oulu_Haukipudas",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 12087,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.815878, 65.826123, 270.000000 ]
+    },
+    "properties" : {
+      "id" : 12087,
+      "name" : "vt20_Kuusamo_Kuolio_Opt2",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.997025, 64.142281, 220.000000 ]
+    },
+    "properties" : {
+      "id" : 13001,
+      "name" : "vt6_Sotkamo_Korholanmäki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-14T03:14:30Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.403639, 64.576405, 152.000000 ]
+    },
+    "properties" : {
+      "id" : 13002,
+      "name" : "vt5_Ristijärvi_Roukajoki",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.241136, 64.533610, 125.000000 ]
+    },
+    "properties" : {
+      "id" : 13003,
+      "name" : "vt22_Vaala_Liminpuro_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.939500, 65.146762, 240.000000 ]
+    },
+    "properties" : {
+      "id" : 13004,
+      "name" : "vt5_Suomussalmi_Palovaara",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.701664, 65.033630, 190.000000 ]
+    },
+    "properties" : {
+      "id" : 13005,
+      "name" : "kt78_Puolanka_Paasikoski_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.104745, 64.084878, 175.000000 ]
+    },
+    "properties" : {
+      "id" : 13006,
+      "name" : "kt76_Kuhmo_Tervasalmi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.405381, 63.995691, 210.000000 ]
+    },
+    "properties" : {
+      "id" : 13007,
+      "name" : "vt5_Kajaani_Hatulanmäki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-24T06:03:05Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.037973, 64.315260, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 13009,
+      "name" : "vt5_Kajaani_Mineraali",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-09T03:04:05Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.843601, 64.786713, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 13010,
+      "name" : "vt5_Suomussalmi_Raiskio",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.847312, 65.275583, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 13011,
+      "name" : "vt20_Pudasjärvi_Taipaleenh",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.334506, 64.433476, 220.000000 ]
+    },
+    "properties" : {
+      "id" : 13012,
+      "name" : "kt89_Kuhmo_Kuusamonkylä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.039022, 65.425561, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 13013,
+      "name" : "vt5_Suomussalmi_Pisto",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-16T03:03:36Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13015,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.524543, 64.162704, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 13015,
+      "name" : "vt5_Kajaani_Nuottijärvi_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.195716, 64.650044, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 13017,
+      "name" : "yt9110_Suomussalmi_Seikkala_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 13018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.833495, 64.260648, 146.000000 ]
+    },
+    "properties" : {
+      "id" : 13018,
+      "name" : "vt5_Kajaani_Kuluntalahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.457754, 65.807847, 4.000000 ]
+    },
+    "properties" : {
+      "id" : 14001,
+      "name" : "st921_Keminmaa_Kaakamo",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.344265, 66.248902, 50.000000 ]
+    },
+    "properties" : {
+      "id" : 14002,
+      "name" : "vt4_Rovaniemi_Jaatila",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.423080, 68.454743, 362.000000 ]
+    },
+    "properties" : {
+      "id" : 14003,
+      "name" : "vt4_Inari_Saariselkä_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-12-14T05:42:21Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.542602, 67.070218, 220.000000 ]
+    },
+    "properties" : {
+      "id" : 14004,
+      "name" : "vt4_Sodankylä_Vuojärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-28T07:51:53Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.796953, 66.515899, 65.000000 ]
+    },
+    "properties" : {
+      "id" : 14005,
+      "name" : "vt21_Ylitornio_Kattilakoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.880189, 67.989226, 240.000000 ]
+    },
+    "properties" : {
+      "id" : 14007,
+      "name" : "vt4_Sodankylä_Porttipahta_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.694510, 65.997655, 33.000000 ]
+    },
+    "properties" : {
+      "id" : 14008,
+      "name" : "vt4_Tervola_Paakkola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.055239, 65.959720, 29.000000 ]
+    },
+    "properties" : {
+      "id" : 14010,
+      "name" : "vt21_Tornio_Kukkola",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.048842, 67.003245, 135.000000 ]
+    },
+    "properties" : {
+      "id" : 14011,
+      "name" : "vt21_Pello_Kivilaki",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-12-14T05:50:14Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.654679, 66.680742, 180.000000 ]
+    },
+    "properties" : {
+      "id" : 14013,
+      "name" : "kt82_Rovaniemi_Kalliosalmi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-14T03:14:29Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14014,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.848391, 66.639585, 102.000000 ]
+    },
+    "properties" : {
+      "id" : 14014,
+      "name" : "kt83_Ylitornio_Raanujärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-22T03:02:54Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14016,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.238159, 69.447600, 284.000000 ]
+    },
+    "properties" : {
+      "id" : 14016,
+      "name" : "vt4_Inari_Petsikko_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-15T03:04:15Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14017,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.441595, 67.193939, 157.000000 ]
+    },
+    "properties" : {
+      "id" : 14017,
+      "name" : "vt5_Pelkosenniemi_Kairala_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-04T03:04:19Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14018,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.624871, 67.530297, 183.000000 ]
+    },
+    "properties" : {
+      "id" : 14018,
+      "name" : "vt21_Muonio_Tapojärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14019,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.252106, 68.806548, 444.000000 ]
+    },
+    "properties" : {
+      "id" : 14019,
+      "name" : "vt21_Enontekiö_Saarikoski_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14020,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.532171, 65.789405, 8.000000 ]
+    },
+    "properties" : {
+      "id" : 14020,
+      "name" : "vt4_Keminmaa_Isohaara",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14021,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.408307, 65.825369, 20.000000 ]
+    },
+    "properties" : {
+      "id" : 14021,
+      "name" : "vt29_Tornio_Luukkaankangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-21T03:03:30Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14023,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.262482, 65.835643, 6.000000 ]
+    },
+    "properties" : {
+      "id" : 14023,
+      "name" : "vt29_Tornio_Kyläjoki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14026,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.087992, 65.834521, 277.000000 ]
+    },
+    "properties" : {
+      "id" : 14026,
+      "name" : "st863_Posio_Sirniö_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-13T03:03:27Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14027,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.941244, 70.088412, 11.000000 ]
+    },
+    "properties" : {
+      "id" : 14027,
+      "name" : "st970_Utsjoki_Nuorgam_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14028,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.179462, 67.563188, 390.000000 ]
+    },
+    "properties" : {
+      "id" : 14028,
+      "name" : "yt9401_Ylläs_maisematie_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14030,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.113765, 66.550917, 190.000000 ]
+    },
+    "properties" : {
+      "id" : 14030,
+      "name" : "vt5_Kemijärvi_Suomu",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-10-05T03:03:29Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14034,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.728417, 66.505491, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 14034,
+      "name" : "vt4_Rovaniemi_Revontuli_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-01T03:03:42Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14036,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.573949, 65.752307, 36.000000 ]
+    },
+    "properties" : {
+      "id" : 14036,
+      "name" : "vt4_Kemi_Ristikangas",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14039,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.626121, 65.711347, 4.000000 ]
+    },
+    "properties" : {
+      "id" : 14039,
+      "name" : "vt4_Kemi_Siikalahti",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14042,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.080531, 68.284083, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14042,
+      "name" : "vt21_Enontekiö_Palojoensuu_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14043,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.217980, 67.042101, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14043,
+      "name" : "st962_Pelkosenniemi_Pyhätunturi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14046,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.321557, 66.108385, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14046,
+      "name" : "kt78_Ranua_Portimo_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14047,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.632721, 67.911098, 240.000000 ]
+    },
+    "properties" : {
+      "id" : 14047,
+      "name" : "vt21_Muonio_Pahtonen",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14049,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.684320, 67.955802, 240.000000 ]
+    },
+    "properties" : {
+      "id" : 14049,
+      "name" : "vt21_Muonio",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14051,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.684320, 67.955802, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14051,
+      "name" : "TEST_vt21_Muonio_lämpösäteily",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14054,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.874249, 69.016677, 475.000000 ]
+    },
+    "properties" : {
+      "id" : 14054,
+      "name" : "vt21_Enontekiö_Kilpisjärvi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14055,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.416200, 66.092967, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14055,
+      "name" : "kt81_Posio_Mourusalmi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14056,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.592843, 68.675367, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14056,
+      "name" : "vt21_Enontekiö_Ropinsalmi_K",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14057,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.023236, 68.519850, 380.000000 ]
+    },
+    "properties" : {
+      "id" : 14057,
+      "name" : "vt21_Enontekiö_Kelottijärvi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14059,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.411906, 68.471865, 325.000000 ]
+    },
+    "properties" : {
+      "id" : 14059,
+      "name" : "vt21_Enontekiö_Hietajoki",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14061,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.012075, 67.016332, 200.000000 ]
+    },
+    "properties" : {
+      "id" : 14061,
+      "name" : "st965_Salla_Kotala_K",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14063,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.933029, 67.200394, 171.000000 ]
+    },
+    "properties" : {
+      "id" : 14063,
+      "name" : "kt79_Kittilä_Lohiniva",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14064,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.930525, 65.669132, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14064,
+      "name" : "vt4_Simo_Simoniemi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14066,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.457463, 66.857203, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 14066,
+      "name" : "kt79_Rovaniemi_Patokoski",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 14068,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.785034, 66.538124, 122.000000 ]
+    },
+    "properties" : {
+      "id" : 14068,
+      "name" : "vt4_Rovaniemi_Santa_Claus",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-09-30T06:10:55Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.716390, 59.650285, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15003,
+      "name" : "TEST_TSA_3",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-07T21:22:34Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.780306, 64.846450, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15004,
+      "name" : "TEST_kt78_Puolanka_Leipivaara_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.321557, 66.108385, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15005,
+      "name" : "TEST_kt78_Ranua_Portimo_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.230451, 69.785258, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15006,
+      "name" : "TEST_st970_Utsjoki_Nuvvus_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.436814, 68.479527, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15007,
+      "name" : "TEST_kt91_Inari_Raja-Jooseppi_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.209595, 67.769078, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15008,
+      "name" : "TEST_yt9671_Savukoski_Tulppio_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_REQUEST_POSTED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.976146, 63.930677, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15009,
+      "name" : "TEST_yt9111_Kuhmo_Saunajärvi_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK_FAULT_DOUBT_CANCELLED",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.058409, 65.031926, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15010,
+      "name" : "TEST_st833_Oulu_Vesala_Lumi",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 15011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.518625, 61.726952, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 15011,
+      "name" : "TEST_TSA_1",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-11-08T13:42:29Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16001,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.356861, 60.373460, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16001,
+      "name" : "vt1_Salo_Lakiamäki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16002,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.356861, 60.373460, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16002,
+      "name" : "vt1_Salo_Lakiamäki_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.477896, 60.380487, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16003,
+      "name" : "vt1_Salo_Kruusila_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.477896, 60.380487, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16004,
+      "name" : "vt1_Salo_Kruusila_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.571301, 60.391169, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16005,
+      "name" : "vt1_Salo_Suomusjärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.571301, 60.391169, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16006,
+      "name" : "vt1_Salo_Suomusjärvi_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16007,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.725752, 60.376244, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16007,
+      "name" : "vt1_Salo_Lahnajärvi_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_REQUEST_POSTED",
+      "dataUpdatedTime" : "2022-10-12T04:54:07Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16008,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.725752, 60.376244, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16008,
+      "name" : "vt1_Salo_Lahnajärvi_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16009,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.936423, 60.328547, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16009,
+      "name" : "vt1_Lohja_Pitkämäki_R",
+      "collectionStatus" : "GATHERING",
+      "state" : "REPAIR_MAINTENANCE_DONE",
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16010,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.936423, 60.328547, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16010,
+      "name" : "vt1_Lohja_Pitkämäki_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16011,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.001952, 60.312709, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16011,
+      "name" : "vt1_Lohja_Karnainen_R",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16012,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.001952, 60.312709, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16012,
+      "name" : "vt1_Lohja_Karnainen_O",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 16013,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.001952, 60.312709, 0.000000 ]
+    },
+    "properties" : {
+      "id" : 16013,
+      "name" : "vt1_Lohja_Karnainen_Opt",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 18003,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.751216, 60.233178, 35.000000 ]
+    },
+    "properties" : {
+      "id" : 18003,
+      "name" : "Espoo_Karakallio",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 18004,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.686063, 60.176832, 19.000000 ]
+    },
+    "properties" : {
+      "id" : 18004,
+      "name" : "Espoo_Puolarmetsä",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 18005,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.675391, 61.000533, 116.000000 ]
+    },
+    "properties" : {
+      "id" : 18005,
+      "name" : "Lahti_Kivistönmäki_1",
+      "collectionStatus" : "REMOVED_TEMPORARILY",
+      "state" : null,
+      "dataUpdatedTime" : "2022-12-08T07:20:47Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 18006,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.617184, 67.362130, 200.000000 ]
+    },
+    "properties" : {
+      "id" : 18006,
+      "name" : "vt4_Sodankylä_Petäjämaa_IL",
+      "collectionStatus" : "GATHERING",
+      "state" : "OK",
+      "dataUpdatedTime" : "2022-11-15T07:56:27Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19906,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.386801, 68.602037, 148.000000 ]
+    },
+    "properties" : {
+      "id" : 19906,
+      "name" : "Ivalo_LA04",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19907,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.421278, 68.613497, 142.000000 ]
+    },
+    "properties" : {
+      "id" : 19907,
+      "name" : "Ivalo_LA22",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19908,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.602489, 62.665553, 121.000000 ]
+    },
+    "properties" : {
+      "id" : 19908,
+      "name" : "Joensuu_LA10",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19909,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.637117, 62.656768, 112.000000 ]
+    },
+    "properties" : {
+      "id" : 19909,
+      "name" : "Joensuu_LA28",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19910,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.661640, 62.405334, 142.000000 ]
+    },
+    "properties" : {
+      "id" : 19910,
+      "name" : "Jyväskylä_LA12",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19911,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.689588, 62.392887, 129.000000 ]
+    },
+    "properties" : {
+      "id" : 19911,
+      "name" : "Jyväskylä_LA30",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19912,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.676385, 62.398795, 142.000000 ]
+    },
+    "properties" : {
+      "id" : 19912,
+      "name" : "Jyväskylä_LAMID",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19913,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.582252, 65.789550, 13.000000 ]
+    },
+    "properties" : {
+      "id" : 19913,
+      "name" : "Kemi_LA18",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19914,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.579411, 65.779522, 11.000000 ]
+    },
+    "properties" : {
+      "id" : 19914,
+      "name" : "Kemi_LA36",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19915,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.673343, 64.282741, 133.000000 ]
+    },
+    "properties" : {
+      "id" : 19915,
+      "name" : "Kajaani_LA07",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19916,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.711301, 64.288153, 143.000000 ]
+    },
+    "properties" : {
+      "id" : 19916,
+      "name" : "Kajaani_LA25",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19917,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.136260, 63.710613, 25.000000 ]
+    },
+    "properties" : {
+      "id" : 19917,
+      "name" : "Kokkola-Pietarsaari_LA01",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19918,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.143619, 63.726942, 26.000000 ]
+    },
+    "properties" : {
+      "id" : 19918,
+      "name" : "Kokkola-Pietarsaari_LA19",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19919,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.224192, 65.992029, 264.000000 ]
+    },
+    "properties" : {
+      "id" : 19919,
+      "name" : "Kuusamo_LA12",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19920,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.254745, 65.983147, 263.000000 ]
+    },
+    "properties" : {
+      "id" : 19920,
+      "name" : "Kuusamo_LA30",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19921,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.791989, 63.015696, 98.000000 ]
+    },
+    "properties" : {
+      "id" : 19921,
+      "name" : "Kuopio_LA15",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19922,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.807680, 62.998742, 95.000000 ]
+    },
+    "properties" : {
+      "id" : 19922,
+      "name" : "Kuopio_LA33",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19923,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.804016, 63.002658, 90.000000 ]
+    },
+    "properties" : {
+      "id" : 19923,
+      "name" : "Kuopio_LAMID",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19926,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.895237, 60.116750, 4.000000 ]
+    },
+    "properties" : {
+      "id" : 19926,
+      "name" : "Maarianhamina_LA03",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19927,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.900957, 60.127713, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 19927,
+      "name" : "Maarianhamina_LA21",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19931,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.787354, 61.467370, 15.000000 ]
+    },
+    "properties" : {
+      "id" : 19931,
+      "name" : "Pori_LA12",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19932,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.809984, 61.459563, 13.000000 ]
+    },
+    "properties" : {
+      "id" : 19932,
+      "name" : "Pori_LA30",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19936,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.585496, 61.410814, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 19936,
+      "name" : "Tre_Pirkkala_LA06",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19937,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.618711, 61.418518, 113.000000 ]
+    },
+    "properties" : {
+      "id" : 19937,
+      "name" : "Tre_Pirkkala_LA24",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19938,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.602692, 61.414749, 120.000000 ]
+    },
+    "properties" : {
+      "id" : 19938,
+      "name" : "Tre_Pirkkala_LAMID",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19939,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.246043, 60.514272, 43.000000 ]
+    },
+    "properties" : {
+      "id" : 19939,
+      "name" : "Turku_LA08",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19940,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.279916, 60.515683, 47.000000 ]
+    },
+    "properties" : {
+      "id" : 19940,
+      "name" : "Turku_LA26",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19941,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.263248, 60.513886, 47.000000 ]
+    },
+    "properties" : {
+      "id" : 19941,
+      "name" : "Turku_LAMID",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19942,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.758610, 63.059528, 5.000000 ]
+    },
+    "properties" : {
+      "id" : 19942,
+      "name" : "Vaasa_LA16",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19943,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.765231, 63.042580, 6.000000 ]
+    },
+    "properties" : {
+      "id" : 19943,
+      "name" : "Vaasa_LA34",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19944,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.759855, 63.051297, 4.000000 ]
+    },
+    "properties" : {
+      "id" : 19944,
+      "name" : "Vaasa_LAMID",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19945,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.843454, 67.709175, 194.000000 ]
+    },
+    "properties" : {
+      "id" : 19945,
+      "name" : "Kittilä_LA16",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19946,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.854982, 67.692931, 194.000000 ]
+    },
+    "properties" : {
+      "id" : 19946,
+      "name" : "Kittilä_LA34",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19947,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.931844, 61.946623, 95.000000 ]
+    },
+    "properties" : {
+      "id" : 19947,
+      "name" : "Savonlinna_LA12",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : 19948,
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.957222, 61.938336, 96.000000 ]
+    },
+    "properties" : {
+      "id" : 19948,
+      "name" : "Savonlinna_LA30",
+      "collectionStatus" : "GATHERING",
+      "state" : null,
+      "dataUpdatedTime" : "2022-09-27T07:20:32Z"
+    }
+  } ]
+}
