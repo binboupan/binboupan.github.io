@@ -8,10 +8,10 @@ url: https://binboupan.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: ''
+baseurl: 'https://binboupan.github.io/'
 
 author: Binboupan
-copyright: 2023
+copyright: 2025
 
 share:
   facebook: true
