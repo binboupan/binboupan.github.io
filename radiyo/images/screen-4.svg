@@ -1,0 +1,16 @@
+<svg width="640" height="1280" viewBox="0 0 640 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="1280" rx="64" fill="url(#bg)"/>
+  <rect x="72" y="150" width="496" height="160" rx="40" fill="#1f1f1f"/>
+  <rect x="72" y="350" width="496" height="340" rx="46" fill="#1b1b1b"/>
+  <rect x="72" y="720" width="496" height="160" rx="42" fill="#1f1f1f"/>
+  <rect x="92" y="188" width="10" height="84" rx="5" fill="#1db954"/>
+  <text x="118" y="240" font-family="Manrope, Arial" font-size="28" fill="#ffffff">Visualizer</text>
+  <text x="100" y="520" font-family="Manrope, Arial" font-size="26" fill="#b3b3b3">Color tuning</text>
+  <text x="100" y="820" font-family="Manrope, Arial" font-size="24" fill="#b3b3b3">Latency control</text>
+</svg>
